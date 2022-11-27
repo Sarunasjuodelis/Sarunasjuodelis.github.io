@@ -1,0 +1,11 @@
+.anekdotas-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 70px;
+  background: url('https://t4.ftcdn.net/jpg/01/64/26/17/360_F_164261744_NnHLBEta2yJ4X4X75XjCbRuO1K0CvVZ8.jpg') no-repeat center center/cover;
+}
+.cities-list {
+  background-image: url(https://t4.ftcdn.net/jpg/00/91/32/87/360_F_91328725_zdst7zcQcytqXIAg8PfxAREVrPbaSenH.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
